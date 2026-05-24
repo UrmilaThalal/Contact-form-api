@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-m*$v#nc!n)ddkr&an5v3#a!36%=h4e!bp=yea*g#(krf05#l1c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'contact-form-api-wkhz.onrender.comg']
 
 
 # Application definition
