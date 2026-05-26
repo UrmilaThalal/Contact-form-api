@@ -4,4 +4,5 @@ from .views import create_contact, get_contacts
 urlpatterns = [
     path('contact/', create_contact),
     path('contacts/', get_contacts),
+    path('all/', get_contacts),
 ]
